@@ -5,7 +5,7 @@ To test on local do:
 
 ### `npm start`
 
-for the front-end and then do:
+which will run on port 3000 and then do:
 
 ### `npm run server`
 
