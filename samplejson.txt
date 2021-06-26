@@ -1,0 +1,13 @@
+{
+    "ticker_symbol": "BPI",
+    "company_name": "Bank of the Philippine Islands",
+    "price": {
+        "trading_date": "2021-06-23",
+        "low": 86.55,
+        "open": 86.55,
+        "close": 87.05,
+        "high": 87.3,
+        "volume": 981880.0,
+        "timestamp": "2021-06-23T05:08:44Z"
+    }
+}
